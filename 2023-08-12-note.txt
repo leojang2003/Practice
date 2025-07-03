@@ -1,42 +1,206 @@
-https://elitedatascience.com/learn-machine-learning
-https://www.springboard.com/blog/data-science/how-to-learn-machine-learning/
-https://www.quora.com/Can-I-be-good-at-machine-learning-on-my-own
-https://windysavage.github.io/how-to-learn-python/
+----------------------------------------------
+Eriador(伊利雅德)
+----------------------------------------------
 
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
-<!-- This is an automatically generated file.
-     It will be read and overwritten.
-     DO NOT EDIT! -->
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
-<H1>Bookmarks</H1>
-<DL><p>
-    <DT><H3 ADD_DATE="1675664632" LAST_MODIFIED="1691823974" PERSONAL_TOOLBAR_FOLDER="true">書籤列</H3>
-    <DL><p>
-        <DT><H3 ADD_DATE="1691823974" LAST_MODIFIED="1691823974">新增資料夾</H3>
-        <DL><p>
-            <DT><A HREF="https://stackoverflow.com/questions/76546838/why-is-streamlit-messing-up-my-plotly-chart" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4jbWQsUsCYRjGn/fuSu/Sk3ALmlzNtoagKRqSaHMKGkKhEOV0KWispSXPQaglAnNobOgfaCyIcgicmxO9zFPv/N5WwTs5gt7x+5739/2eDwgw/bK67HcnBQG4Ag3L0LJ/BoBFDuDzTiGUCAywDC3bNbRtANCrwxaBziRZanAGcjADwR8AX1uGesEZyFGzXwO43VsKn07GaJa5lY/GMefUAYooEvaELDnCEW9M2I1V7GdPg04hlLAM7dYqqut67ftLNwdpMB5dgRfXdVMgHIFpx9egfbwYk0eDA2LKAWJMkK6cUOhOGdkpZmoQiy29OmwFq1AKb5CgQyakAXqQJKpELn/eJzPK1JKhPhHjk4EmMzUVmU/coVLkeXff672pk155YXUsxikCJQFeYVCSgCiAV920N311b+r37FslH413S+qaV86rggfIBbG38RRAN+2ZHzsTMKvGv80vvziHGAusG84AAAAASUVORK5CYII=">python - Why is streamlit messing up my Plotly chart? - Stack Overflow</A>
-            <DT><A HREF="https://blog.techbridge.cc/2017/11/24/python-data-science-and-machine-learning-scikit-learn-basic-tutorial/" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABuElEQVQ4jZVSPY/aQBCd8S5fNocg0qFcRElFAQH5B0BBR0eHaPyLLmVEi9L4D1AjCnTu4CS3KVAaChIf2Mbn3dkrlvNdiCIlr9rZ2d037+1DIoL/ASqNPxtXJV42uFIKs+rvkFIahgEAHAB+RtGvOAbDyDEmiSQRZ+xGqTgMJREA1Gq1crlMRIjIAeDb4+OX1co0zR9PTzeFQgnx0+1t0/O++/7Hu7s0Tff7/XQ6dRxHSglEdE7TII6PSfL5/v7rw8MxScLnZ8dxZrNZHMdhGK7Xa9u2d7sdEXEAKDBW4BwA8oxZuVw5n9cqK5VKsVgEgGazWa1W30QrAFQKEEkp+epZqVSaz+ebzSZJkuVyOZlMGo2GEIIj4sVVRATAVweFEK1WazAYCCHa7bbruv1+v9vt8sxjTQKIoJQCSNPUtu3hcKgn2W63i8Wi1+sZAABKIYBCFFISkULUtIfD4XQ6BUHg+77neZ1O56Ihe/WDaRY51yPW63XXdVerlZTyeDyOx+PRaERE+D5Lwflc5Fw7FkVRFEVanmVZlmXpDKH+P93QYt6vMwghGGOXWXWcro5eBTK7/xvDv+AFZeIFYEK9wKsAAAAASUVORK5CYII=">用 Python 自學資料科學與機器學習入門實戰：Scikit Learn 基礎入門</A>
-            <DT><A HREF="https://yanwei-liu.medium.com/computer-vision-with-python-569dc58aff22" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABlElEQVQ4jaWTsaoiQRBFT3e/mUFBmET8BH/ABQN/wFARFBTBSJjAVDQQzIwe7IcYjGBgZiCYGhr4ASZmBsLYrzZQm9G3y8puQdNwq2717erbAJ9AAljgC5C/rK977RX4VHeQ+654L1ytTnVWxphHM4wxTwxjzAN7kAUQdZek+DcFolMk1e/3ieOY5XLJcDgkm806RrPZZDAYAOD7vrrnFEopCYJA5vO5vMZ2u5VMJiOlUslhrVZLOp2OjMdjAeRDRGg0GtTrdZIkQamboOv1SrlcJooi8vk8IoK1lna7zfF4JAxDAD4AqtUq1lo3LKUUSimstdRqNc7ns8sVi8WnIWsAz/PcyelQSmGMQWv9hIm4x7o1WK1WaK2dTGstSZKgtWaxWLDb7VzucDhwOp24XC6uo/i+L3Ecfxvifr+XMAylUqk4rNvtSq/Xk8lk8vDPzRBBEMhoNJL1ei2bzUZms5kUCgVn4SiKZDqdiud5EgSB5HK594z0euffGckBr1ZOk/9gZf7XyhggBH6kVb9BFm5f+ucvMhDxQnv5W1IAAAAASUVORK5CYII=">Python影像辨識筆記目錄. Computer Vision with Python Learning… | by Yanwei Liu | Medium</A>
-            <DT><A HREF="https://github.com/leojang2003/Practice/tree/main" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">Practice/ at main · leojang2003/Practice</A>
-            <DT><A HREF="https://github.com/microsoft/ML-For-Beginners" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</A>
-            <DT><A HREF="https://github.com/microsoft/ML-For-Beginners" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</A>
-            <DT><A HREF="https://github.com/topics/machine-learning-tutorials" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">machine-learning-tutorials · GitHub Topics</A>
-            <DT><A HREF="https://github.com/leemengtw/deep-learning-resources" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">leemengtw/deep-learning-resources: 由淺入深的深度學習資源 Collection of deep learning materials for everyone</A>
-            <DT><A HREF="https://github.com/louisfb01/start-machine-learning" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">louisfb01/start-machine-learning: A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2023 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!</A>
-            <DT><A HREF="https://github.com/topics/machine-learning-algorithms" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">machine-learning-algorithms · GitHub Topics</A>
-            <DT><A HREF="https://github.com/Avik-Jain/100-Days-Of-ML-Code" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">Avik-Jain/100-Days-Of-ML-Code: 100 Days of ML Coding</A>
-            <DT><A HREF="https://github.com/ZuzooVn/machine-learning-for-software-engineers" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.</A>
-            <DT><A HREF="https://github.com/trekhleb/homemade-machine-learning" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">trekhleb/homemade-machine-learning: 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained</A>
-            <DT><A HREF="https://github.com/rasbt/python-machine-learning-book" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">rasbt/python-machine-learning-book: The &quot;Python Machine Learning (1st edition)&quot; book code repository and info resource</A>
-            <DT><A HREF="https://github.com/rushter/MLAlgorithms" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms implementations</A>
-            <DT><A HREF="https://github.com/instillai/machine-learning-course" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">instillai/machine-learning-course: :speech_balloon: Machine Learning Course with Python:</A>
-            <DT><A HREF="https://github.com/aladdinpersson/Machine-Learning-Collection" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">aladdinpersson/Machine-Learning-Collection: A resource for learning about Machine learning &amp; Deep Learning</A>
-            <DT><A HREF="https://github.com/therealsreehari/Learn-Data-Science-For-Free" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">therealsreehari/Learn-Data-Science-For-Free: This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.</A>
-            <DT><A HREF="https://github.com/zotroneneis/machine_learning_basics" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">zotroneneis/machine_learning_basics: Plain python implementations of basic machine learning algorithms</A>
-            <DT><A HREF="https://github.com/rasbt/pattern_classification" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">rasbt/pattern_classification: A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks</A>
-            <DT><A HREF="https://github.com/alirezadir/Machine-Learning-Interviews" ADD_DATE="1691823974" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACpklEQVQ4jW2SwWvcVRSFv/ve+80kbUjJJDVSsKlx2iQtRXDTCnXhXgRx5cIuRDeKQjdCi4IrcaEIVitW/wFBUdxWlOqqgmIx1k4ik8SShmhjx6ImmXnvHhdJyFA8q/vgvns4373GlgwQwERz+uEYq2cDPCq4F2SGrTj2lXv+cHH+2hX6ZH11NTl9/A2D5y2EASQkCcDMDDPkWpd0vt366SzgOwMCNKvJ6YFPUqoec3fY+tc3f/cdYiDn3qft67NPASUCmpw68FatVjudc/6yqLxi2Fgw2+/yFUHHzCqhKyWXs0h7arX648MjY/Xba79fskPNmZMxpcsxVTH3uh+0W7MvAOnIkQfHu92/1gBKvd640WrdArqTU8ffTlX1Yim9zdwrp1KI8TkLoSYvGGQgAmVu7upyH5+b23mioezu0SzsCcGfCWY8giR3rW/08ntA2W7uB7xTl0zvAl7+RpKZnQrCDhhmoD+W29cXthu9j9wORQEstVq/CW6agWH3B8CEJBhqNJqDdznfLRsfHx8QDEtmMlIwYwmJYNYYGq1ObDul/4mQANX3jZ4MZvdIksFioPi3hADYP1VKH00cPjzDFsy7I+SDzaPHqhjPA1gwk/SNTTRnHkopfe/SO8HsvhDjE+7lcy/+2sLcz1cBDjaPHquq9LKkJ4PZXiBL8lLKibD06y8/SP5+ivGlbrf7upf8JmLo3818Z9e+u2FwOpjtlVgPMSbh7y7OX/sxAKFdNs/I/XJ9oP6xy7+T+7nVpdbORriR87JLqwAxxsGS8xftvHkOCH2gDg08MDV8MaTwtBdnbePOSGdxsQPQaDaHR9JgxywU93Kx3Zo9A3Rh6+q2KXfy7bXVz/aN7f/apFsrpXuJTicDrP/ZYGS0qpesVxfmZy+we2z8B+UDSXAnYXvkAAAAAElFTkSuQmCC">alirezadir/Machine-Learning-Interviews: This repo is meant to serve as a guide for Machine Learning/AI technical interviews.</A>
-        </DL><p>
-    </DL><p>
-</DL><p>
+Bree(布理): 
+佛羅多·巴金斯一行四名哈比人攜魔戒離開夏爾，在湯姆·龐巴迪介紹下前往布理最大及最有名的躍馬旅店(Prancing Pony)。在旅店內，佛羅多等人與遊俠首領亞拉岡相遇。戒靈曾經到這裡打算殺害佛羅多等人，但被亞拉岡識破，把佛羅多等哈比人帶到他的房內。次日，亞拉岡和四個哈比人在奶油伯的幫助下，總算離開了布理繼續上路。其後，甘道夫也趕到布理，見識到戒靈摧毀了布理的大閘並如暴風般橫過布理，布理居民都感到相當畏懼和仿似世界末日。
+
+
+Weather Hill(風雲丘):
+風雲頂曾是王國的重要前線要塞、一枚真知晶石(Palantír)的存放點及幾場重要戰役的發生處。3018年10月3日，灰袍巫師甘道夫在這裡被戒靈圍攻。山頂上發生了一場大戰，甘道夫逃走，留下了一些提示給稍後來到的佛羅多與亞拉岡等人。3日後來到的亞拉岡解讀了暗號，並留宿在風雲頂的西側。當夜五位戒靈襲擊了他們，但敵人遭到擊退而未能得逞。可是佛羅多卻被巫王的魔窟劍所重創，結果一行人短暫逗留後便匆匆離開風雲頂，趕往瑞文戴爾。
+
+
+----------------------------------------------
+ENEDWAITH(伊寧威治):
+----------------------------------------------
+
+Dunland(登蘭德):
+洛汗人將登蘭德人的居住地命名為登蘭德，登蘭德的居民為登蘭德人，登蘭德人感到洛汗人的威脅。直至洛汗國王聖盔·鎚手的統治時期，登蘭德人與洛汗(Rohan)都未有爆發戰爭。一位擁有洛汗人及登蘭德人血統的貴族費瑞卡(Freca)嘗試獲得洛汗的皇位，於是為兒子沃夫向國王請求通婚，但最後被國王被殺，於是沃夫領導登蘭德人向洛汗開戰，但他們在第三紀元2758-2759年的長冬下，即使殺死了國王的兒子和佔領伊多拉斯(Edoras)，未能完成對聖盔谷的合圍。國王之侄佛瑞拉夫(Fréalaf)在長冬接近終結時率軍重奪伊多拉斯，並殺死沃夫，登蘭德人被驅逐出洛汗。
+
+
+----------------------------------------------
+MISTY MOUNTAIN(迷霧山脈)
+----------------------------------------------
+
+Isengard(艾辛格):
+初時，薩魯曼為剛鐸駐守艾辛格，艾辛格遂成為著名的薩魯曼之谷。第三紀元2953年，薩魯曼結連索倫，並與剛鐸決裂，據地自立，成為艾辛格的領主。
+
+
+Fangorn Forest(法貢森林):
+樹人的領土。法貢森林的命名來自最老的樹人法貢(樹鬍)。梅里及皮聘進入了法貢森林。他們在這裡遇見樹鬍(Treebeard)，並說明薩魯曼會對樹人及法貢森林造成威脅。樹人召開樹人會議後，樹人同意帶同梅里和皮聘進軍艾辛格，並派遣野樹人前往聖盔谷牽制半獸人，薩魯曼的半獸人砍伐法貢森林的樹木著實激起了樹人的怒火。
+
+為了營救梅里和皮聘，亞拉岡、金靂和勒苟拉斯進入了法貢森林，遇見一個穿白袍的老人，他們以為那老人是薩魯曼，後來才知道是在摩瑞亞陷入深淵的甘道夫。
+
+
+Lorien(羅瑞安)(Lothlórien):
+羅瑞安森林終年呈現金色。梅隆樹的樹葉在秋天變黃，但歷冬不落。到春天，金色的葉子落下鋪滿大地，樹上長出綠色和銀色的新葉，開出金色的花朵。中土其他地方都沒有梅隆樹生長，除了夏爾的那一株外——這棵樹的種子是凱蘭崔爾作為禮物送給山姆的。羅瑞安是一個美麗祥和的地方。凱蘭崔爾用魔戒能雅(Nenya)的力量保護著羅瑞安，使其免遭邪惡和危險的騷擾，也用來延緩時間的流逝。
+
+第三紀元2980年，亞拉岡(Aragorn)來到羅瑞安，並在這裏與阿爾玟共度了一段時間。他們於仲夏前夜在瑟林·安羅斯的山丘上訂婚。
+
+第三紀元3009年，由於迷霧山脈東側變得越來越危險，阿爾玟應父親的要求離開羅瑞安，回到瑞文戴爾。
+
+第三紀元3018年12月，阿爾玟的哥哥來到羅瑞安，帶來父親愛隆王的口信。他們告訴凱蘭崔爾和凱勒博恩，九人組成的魔戒遠征隊很快就會從瑞文戴爾出發，前往末日火山摧毀索倫的至尊魔戒。
+
+第三紀元3019年1月15日，魔戒遠征隊於抵達羅瑞安。這時隊伍只剩下八名成員，甘道夫已經在摩瑞亞戰死了。 
+
+第二天，遠征隊用繩橋渡過銀光河，進入羅瑞安的中心。精靈不願讓金霹繼續前進，因為矮人是不允許進入羅瑞安的，但是他要求金霹蒙上眼睛。亞拉岡說，他們願意全體蒙上眼睛，於是遠征隊被帶到瑟林·安羅斯。在那裡，一群精靈帶來凱蘭崔爾的命令，遠征隊員可以在羅瑞安自由行動。他們的眼罩被取下，金霹成為許多年來第一個目睹羅瑞安中心景色的矮人。佛羅多和山姆爬上瑟林·安羅斯的瞭望台，亞拉岡回憶起他和阿爾玟的訂婚。
+
+2月14日，凱蘭崔爾給佛羅多和山姆看她的魔鏡，“這面鏡子可以顯示過去、現在和可能的未來。山姆在鏡中看到了夏爾被破壞，而佛羅多最後看到的則是索倫搜尋他的火眼。
+
+佛羅多提出把魔戒交給凱蘭崔爾，但是被她謝絕了，她知道儘管最初她會用魔戒來行善，但她最終會淪落為一個暴君。凱蘭崔爾同樣知道，一旦至尊魔戒被毀，精靈三戒也會失去力量，它們所創造和保護的一切也會開始消逝——包括羅瑞安的寧靜與美麗。
+
+2月16日，遠征隊離開羅瑞安。在他們臨行前，凱勒博恩與凱蘭崔爾在銀光河與安都因河交匯處的岬角的綠草地上，見了眾人最後一面。 凱蘭崔爾贈予遠征隊員們各種禮物，凱勒博恩則為他們提供沿安都因河旅行所需的船隻。
+
+2月17日，巨鷹風王關赫(Gwaihir the Windlord)將甘道夫帶到羅瑞安。甘道夫在山頂決戰中擊敗了炎魔，但巫師自己也獻出了生命，不過又作為白袍甘道夫重生。凱蘭崔爾贈予他白袍，以匹配他作為巫師之首的新地位，甘道夫很快離開了羅瑞安。
+
+
+Moria(摩瑞亞):
+第三紀元1980年，一隻自魔苟斯戰敗以來就潛伏在山下的炎魔(Balrog)在凱薩督姆甦醒。矮人於第三紀元1981年出逃，凱薩督姆成為邪惡之地，更名為摩瑞亞——“黑坑”的意思。
+
+
+Gladden Fields(格拉頓平原):
+在這裡，埃西鐸(Isildur)被一隊半獸人伏擊，並死於這裡。他曾嘗試跳進格拉頓河，利用魔戒的隱身能力逃亡，但魔戒滑出他的手指。他在河的另一邊上岸，半獸人發現並殺死他。埃西鐸的隨從歐塔(Ohtar)帶回了埃西鐸的佩劍納希爾聖劍(Narsil)。二千多年後，哈比人德戈(Déagol)在格拉頓河尋得魔戒，但被冋伴史麥戈所殺，史麥戈奪取魔戒後腐化為邪惡生物咕嚕。
+
+
+----------------------------------------------
+MIRKWOOD(幽暗密林):
+----------------------------------------------
+
+幽暗密林是指羅馬尼安的巨大森林。索倫被擊敗後，這森林是森林精靈的聚居地，由辛達林首領歐瑞費爾(Oropher)及其子瑟蘭督伊(Thranduil)統治，這裡一度被稱為巨綠森(Greenwood the Great)，直至第三紀元約1100年。索倫倒台後，人類稱這地為浮陰森林。其後索倫重返多爾哥多(Dol Guldur)建立要塞，驅趕瑟蘭督伊及其子民往北面，所以在第三紀元末，他們的人口變少，他們以幽暗密林山脈為防線。有兩條道路由東至西橫越幽暗密林，但由於相當接近多爾哥多，這些道路被廢棄，精靈在更北的地方建造一條道路，直抵長湖鎮(Esgaroth)。
+
+Dol Guldur(多爾哥多):
+多爾哥多(Dol Guldur)，位於幽暗密林(Mirkwood)南方，為黑暗魔君索倫的要塞。
+
+
+Woodland Realm(黑森林王國):
+國王瑟蘭督伊，瑟蘭督伊是在巴拉多(Barad-dûr)建立之前從林頓向東進發的一位辛達族精靈，亦是幽暗密林北部西爾凡精靈的國王，擁有金髮。瑟蘭督伊是歐瑞費爾(Oropher)的兒子及勒苟拉斯(Legolas)的父親。
+
+
+----------------------------------------------
+DALE(河谷鎮):
+----------------------------------------------
+
+Erebor(依魯伯):
+孤山，是羅馬尼安(Rhovanion)東北部的一座山，亦是都靈矮人部族的古老故鄉，他號稱為不死都靈是因為許多子孫都以都靈為名。另外，許多矮人的外表和性格都酷似都靈，被認為是都靈再生。孤山下的矮人王國是中土大陸最大的矮人藏寶地。
+
+這個山下國王(King under the Mountain)的故鄉成為矮人的根據地，矮人在此逐漸壯大繁盛。這時的矮人精於石工，周邊的居民對此十分需求。矮人亦以此積累財富和寶藏，這也是惡龍史矛革(Smaug)來孤山的原因。
+
+當索林·橡木盾(Thorin Oakenshield)出外打獵之時，史矛革佔據了孤山，並霸佔了寶藏。索恩二世(Thráin II)及多個夥伴從秘密通路逃走。許多矮人流亡到伊瑞德隆(Ered Luin)。
+
+後來，甘道夫(Gandalf)與索林‧橡木盾在布理相遇，他們計劃奪回孤山。
+
+比爾博·巴金斯抵達孤山，並奪得史矛革的寶藏。山內的秘密通道有五尺高及五尺闊，足夠三人並肩而行。甘道夫取得密門的鎖匙。密門只會在日落和秋季最後一天的月亮懸掛時才會開啟，使他們能夠逃出孤山。
+
+史矛革最終被長湖鎮人類弓箭手巴德(Bard)射殺，索林‧橡木盾隨之佔據孤山。巴德後來成為河谷鎮國王。而幽暗密林(Mirkwood)的精靈及長湖鎮人類都欲取得寶藏，但索林‧橡木盾拒絕向他們分享寶藏。丹恩二世·鐵足(Dáin II Ironfoot)支持索林‧橡木盾，他們與矮人、精靈、人類聯軍對峙，戰爭幾乎爆發，這時甘道夫帶來了半獸人和座狼大軍即將到來搶奪寶藏的消息，雙方終於放下歧見聯手對敵，五軍之戰因此爆發，巨鷹在戰鬥中趕來增援，但索林‧橡木盾仍重傷而亡。孤山王國的皇位由丹恩繼承。
+
+
+Lake-town(長湖鎮):
+第三紀元2941年，索林·橡木盾領導的十三名矮人途經長湖鎮，前往孤山，由於他們驚動了史矛革，導致長湖鎮遭到史矛革襲擊。由於比爾博·巴金斯透露了史矛革的弱點，神射手巴德(Bard)用黑箭將史矛革殺死。城鎮殘破，後來利用史矛革的寶藏重建城鎮。有部分居民跟隨巴德移居到河谷鎮。
+
+
+Iron Hill(鐵丘陵):
+鐵丘陵是位於羅馬尼安及盧恩之間的山脈，於孤山的東面，這裡是矮人採礦之地。鐵丘陵的矮人戰士丹恩二世·鐵足(Dain II Ironfoot)領軍協助索林·橡木盾，捲進五軍之戰。鐵丘陵是英格林山脈(Ered Engrin)的餘脈，英格林山脈是魔苟斯(Morgoth)的居地。
+
+
+----------------------------------------------
+RHOVANION(羅馬尼安):
+----------------------------------------------
+
+Rhûn(盧恩):
+盧恩是追隨索倫的東方人和邪惡人類的領土
+
+
+Dagorlad(達哥拉):
+也被稱為戰爭平原(Battle Plain)，是一片視野開闊的毫無生機的尘埃平原。此地曾發生過數場重要戰爭。
+
+
+Brown Lands(褐地):
+無人之地。
+
+
+Emyn Muil(艾明莫爾):
+艾明莫爾(英語：Emyn Muil)是第三紀元中土大陸的一處山脈。位於剛鐸的北面邊界，安都因河和拉洛斯瀑布的附近；該處為充滿岩石、深谷的荒涼地帶，很少有樹木或植物在當地生長。第三紀3019年，持有魔戒的佛羅多與山姆在前往魔多途中穿越艾明莫爾，因該地複雜的地形而迷了路，之後遇見咕嚕，在其帶路下才走出艾明莫爾。
+
+
+----------------------------------------------
+ROHAN(洛汗):
+----------------------------------------------
+
+Fords of Isen(艾辛河渡口):
+艾辛河渡口是艾辛河(Isen)上的渡口，該處由洛汗人戌守。艾辛河渡口是由艾辛河進入洛汗的唯一通道，在戰略上有非常重要的作用。在魔戒聖戰時期，艾辛河渡口發生過兩場戰伇。第一次爆發於第三紀元3019年2月23日，另一次則爆發於第三紀元3019年3月2日。對戰雙方是薩魯曼(Saruman)的強獸人(Uruk-hai)軍隊對洛汗的洛汗軍隊。希優德(Théodred)及伊歐墨(Éomer)曾竭力阻止葛力馬·巧言(Gríma Wormtongue)迷惑洛汗國王希優頓，但都失敗了。
+
+
+Helm's Deep(聖盔谷):
+聖盔谷是位於白色山脈西北方的一個大山谷。聖盔谷被一連串被稱為聖盔渠的山丘阻擋著，山丘後方就是要塞號角堡，即是閃耀洞穴的入口。
+
+
+Edoras(伊多拉斯):
+伊多拉斯坐落於白色山脈最大山峰的山腳下，平原中一座翠綠的山丘上，雪界河流經附近。伊多拉斯邊界之處皆以壕溝及帶刺的圍籬圍住，大門前駐有守衛。在伊多拉斯大門外附近的山丘，有著歷任洛汗國王的墳墓，該處生長了許多永誌花。
+
+
+----------------------------------------------
+GONDOR(剛鐸):
+----------------------------------------------
+
+Erech(伊瑞奇):
+是剛鐸的一片平原，位於黑根谷的河口，遠在米那斯提力斯以西，靠近亡者之路的南入口。上面矗立著厄利克山和一個光滑的黑色球體，即厄勒克之石。
+
+在第二紀元，伊熙鐸在埃雷克山上放置了一塊巨大的黑色石頭，並讓當地的山地部落對著這塊石頭宣誓效忠。正是在那裡，山地之王在最後的聯盟時期宣誓效忠於伊熙鐸的事業。然而，當他未能履行誓言時，他和他的人民被詛咒，像死者一樣在厄瑞克平原上流浪和出沒，直到他們兌現諾言。
+
+平原變成了一個神秘而怪異的地方，山谷的人們避之不及，他們聲稱這裡被不安分的靈魂所困擾。到第三紀元末期，該地區完全被遺棄。在阿塞丹的阿維杜伊國王時代，有關於魔戒之戰中死者復活的預言。在這個預言中提到了厄利克之石
+
+當遠征隊來到洛汗時，愛隆王的兒子們帶來了他們父親對亞拉岡的這些話的提醒，亞拉岡根據這些話勇敢地走上了亡者之路。
+
+在等待了第三紀元的漫長歲月后，T.A.3月8日午夜。3019年，伊西爾杜爾的繼承人亞拉岡來到厄瑞克，讓死者再次信守誓言，並承諾在誓言實現后他們會得到和平。第二天，他們離開厄利奇前往迦倫貝爾。事實上，在3月13日，他們信守諾言，組建了亡者之軍，説明亞拉岡在佩拉吉爾擊敗烏姆巴爾的海盜。佩拉吉爾戰役結束后，亞拉岡解除了他們的誓言，讓他們得以休息。
+
+
+Dol Amroth(多爾安羅斯):
+港口城市，是剛鐸(Gondor)的其中一塊領地。安羅斯為第三紀元羅瑞安(Lórien)精靈的統治者，他與寧若戴爾(Nimrodel)的愛情悲劇就是結束在貝爾法拉斯灣(Bay of Belfalas)，安羅斯淹死在多爾安羅斯地處的岬角附近海面上。
+
+
+Minas Tirith(米那斯提力斯):
+第三紀元後半，該城成為剛鐸的首都與禁城。米那斯提力斯的建立原本是要守衛前剛鐸首都奧斯吉力亞斯西邊以免遭到攻擊，但由於王室內鬥與大瘟疫導致奧斯吉力亞斯沒落，米那斯提力斯就成為剛鐸首都。該城常暱稱為淨白城或王城。
+
+
+----------------------------------------------
+ITHILIEN(伊西力安):
+----------------------------------------------
+
+North Ithilien(北伊西力安):
+
+咕嚕帶領哈比人佛羅多及山姆穿越伊西力安，通過西力斯昂哥(Cirith Ungol)進入魔多。他們目睹哈拉德威治(Harad)的東夷南蠻(Southrons)及猛獁(Oliphaunts)與伊西力安的遊俠進行戰爭，他們被法拉墨(Faramir)領導的伊西力安的遊俠發現，法拉墨確定了他們並非魔多的爪牙後，便讓他們繼續旅程。
+
+
+Osgiliath(奧斯吉力亞斯):
+
+奧斯吉力亞斯(Osgiliath)是剛鐸王國的前首都。奧斯吉力亞斯在第三紀元中期開始淪為鬼城、廢墟，日後也無重建。
+奧斯吉力亞斯是由伊蘭迪爾(Elendil)的兩個兒子埃西鐸(Isildur)和安那瑞安(Anárion)建立的，他們逃離努曼諾爾的毀滅，流浪至南方安都因的河口，建立了剛鐸(Gondor)，以此城為首都。
+
+
+----------------------------------------------
+MORDOR(魔多)
+----------------------------------------------
+
+Udun(烏頓):
+是魔多西北部的一處山谷，是魔多的重要入口，山谷中有大批邪惡生物打通了無數地道
+
+
+Mount Doom(末日火山):
+位於魔多的心臟地帶。索倫在末日火山鑄造至尊魔戒，末日火山也是佛羅多實行摧毀魔戒任務的終點。
+
+
+Minas Morgul(米那斯魔窟):
+米那斯魔窟(辛達林：「黑巫術之塔」)，舊稱為米那斯伊希爾(辛達林：Minas Ithil「月升之塔」或直譯「月之塔」)，全稱為魔窟谷的米那斯伊希爾(Minas Ithil in the Morgul Vale)，因為米那斯魔窟處於一個叫魔窟谷的深谷內。
+
+
+Barad-Dur(巴拉多):
+索倫(Sauron)的要塞。塔頂的索倫之眼注視著中土大陸。第二紀元末，巴拉多被精靈及人類最後同盟圍攻長達七年，終被摧毀。但巴拉多是以魔戒的力量建造，巴拉多的根基未被完全破壞，除非魔戒被毀滅。埃西鐸(Isildur)切斷了索倫的手指，獲得魔戒，但他不願摧毀魔戒，所以索倫在一千多年後返回魔多(Mordor)後得以輕易重建。
+
+
+Plateau of Gorgoroth(葛哥洛斯平原):
+位於魔多(Mordor)西北部。葛哥洛斯平原的中央是末日火山的所在。索倫在此建造要塞巴拉多(Barad-dûr)。魔戒聖戰時期，葛哥洛平原是魔多的兵工廠，用作生產武器裝備。葛哥洛斯平原佈滿火山灰，有少量農作物生長，相信沒有人類居住在平原上。
+
+
+Nurn(諾恩):
+是位於魔多南部的一片區域。和北部的葛哥洛斯平原相比，諾恩的土地遠為肥沃，這裡有大量的人類奴隸勞作耕種，以維繫魔多的龐大軍隊。
 
